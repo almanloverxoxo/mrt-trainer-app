@@ -148,4 +148,4 @@ for i, country in enumerate(selected_countries):
             value=f'{last_gdp:,.0f}B',
             delta=growth,
             delta_color=delta_color
-        )
+        ) MRT code ersetzt
